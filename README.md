@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# https://github.com/tradingview/charting-library-tutorial/blob/master/documentation/home.md
+# https://github.com/tradingview/lightweight-charts/tree/master/docs
+# https://in.tradingview.com/lightweight-charts/
